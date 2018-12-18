@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "a60c29633cef339782d960c1c3194892"
+build_time: [524737683, 845235000]
+inputs:
+  "/Users/HUI/Documents/BullsEye/BullsEyeTests/BullsEyeTests.swift": [524668913, 0]

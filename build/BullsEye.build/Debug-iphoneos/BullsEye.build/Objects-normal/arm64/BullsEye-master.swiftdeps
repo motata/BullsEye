@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "685b94b723c46837990767d15c7becbf"
+build_time: [524863616, 299849000]
+inputs:
+  "/Users/HUI/Documents/BullsEye/BullsEye/AboutViewController.swift": [524827298, 0]
+  "/Users/HUI/Documents/BullsEye/BullsEye/ViewController.swift": [524860415, 0]
+  "/Users/HUI/Documents/BullsEye/BullsEye/AppDelegate.swift": [524668913, 0]
